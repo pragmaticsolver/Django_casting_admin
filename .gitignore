@@ -1,0 +1,7 @@
+.idea
+*.pyc
+set_local_env.sh
+venv/
+.vs/
+.vscode/
+env/

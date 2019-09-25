@@ -1,0 +1,26 @@
+Django==2.1.3
+djangorestframework==3.8.2
+django-rest-auth==0.9.3
+django-allauth==0.36.0
+psycopg2-binary
+djangorestframework-jwt==1.11.0
+django-rest-swagger
+django-cors-headers
+Pillow==5.3.0
+django-friendship
+cloudinary
+# elasticsearch<6.0.0,>=5.0.0
+elasticsearch<8.0.0,>=7.0.0
+# Elasticsearch 5.x
+elasticsearch-dsl>=7.0.0,<8.0.0
+django-elasticsearch-dsl
+django-elasticsearch-dsl-drf
+#memcached
+python-memcached
+django-notify-x
+sentry-sdk==0.7.6
+django-suit==0.2.26
+incremental==17.5.0
+channels
+channels_redis
+jsonfield
