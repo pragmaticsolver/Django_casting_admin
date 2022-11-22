@@ -6,7 +6,7 @@ psycopg2-binary
 djangorestframework-jwt==1.11.0
 django-rest-swagger
 django-cors-headers
-Pillow==5.3.0
+Pillow==9.3.0
 django-friendship
 cloudinary
 # elasticsearch<6.0.0,>=5.0.0
